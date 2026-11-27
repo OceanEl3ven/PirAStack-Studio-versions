@@ -1,0 +1,11 @@
+{
+  "version": "0.148.0",
+  "notes": "📺 L'onglet TV rangé comme ta maquette B (ta réponse 66) : en haut la veille des deux télés et ⚙️ (le mode télé, l'adresse, chercher tes télés), tes télés juste dessous, puis 🎬 en six onglets avec l'écran de ta télé du décor en direct à droite. Sur la télé du décor : une pluie d'alertes bien plus fluide (essayée sur ta vraie TV Décors : 45 images par seconde au lieu de 14), la pause VHS lisible, et les logos officiels de YouTube, Twitch, Facebook, X et Snapchat dans tes appels à l'action (ta réponse 67 ; TikTok, Instagram et Kick gardent leur dessin : leur marque demande une permission écrite). Tes 15 onglets tiennent dans la barre sur un écran de 1 440 px.",
+  "pub_date": "2026-11-27T23:10:56Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkhTUDdEZzZ5NFgxTGV2Y25MQWx2K3hPckhUN1lYbVFCRmZzWUYwNnlza3pTazhFSzNOQ096M2JGalB2SytmR1B6VFpMcnAydGU5Y1I1UE9Pd2Z1aGQ3ZTQvOG95MFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODIwNzExCWZpbGU6UGlyQVN0YWNrIFN0dWRpb18wLjE0OC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE0OC4wCkZISmxoalF0cmJNbTQrTkJHSEdFMGtZeEduWkdZWDN6UHdMUEU1RzVYc0JEeDMvQTFkbHJvSU5qaVRqTEVKbUhwT2Npb0tmd0hWUUlYb0lsUmFZc0JBPT0K",
+      "url": "https://raw.githubusercontent.com/OceanEl3ven/PirAStack-Studio-versions/main/PirAStack-Studio_0.148.0_x64-setup.exe"
+    }
+  }
+}
